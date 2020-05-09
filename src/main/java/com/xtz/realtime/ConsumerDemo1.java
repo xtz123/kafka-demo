@@ -1,4 +1,4 @@
-package com.ppdai.realtime;
+package com.xtz.realtime;
 
 import com.alibaba.fastjson.JSONObject;
 import org.apache.kafka.clients.consumer.ConsumerRecord;

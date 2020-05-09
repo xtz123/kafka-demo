@@ -1,4 +1,4 @@
-package com.ppdai.realtime;
+package com.xtz.realtime;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
